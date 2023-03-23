@@ -94,7 +94,7 @@ Monty Files:
 | stack_func.c |  Contains functions create stack and queues: ***_push, _pall, _swat,***
 | stack_func2.c | It contains other functions for print char such as: ***_pchar, _nop***
 
- ## Requirements project
+ ## Project Requirements
 
 -  Allowed editors: vi, vim, emacs
 -   All your files will be compiled on Ubuntu 14.04 LTS
