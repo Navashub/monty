@@ -25,7 +25,6 @@ void free_tokens(void)
 
 /**
  * token_arr_len - Gets the length of current op_toks.
- *
  * Return: Length of current op_toks (as int).
  */
 unsigned int token_arr_len(void)
@@ -38,7 +37,8 @@ unsigned int token_arr_len(void)
 }
 
 /**
- * is_empty_line - Checks if a line read from getline only contains delimiters.
+ * is_empty_line - Checks if a line read from getline only 
+ * contains delimiters.
  * @line: A pointer to the line.
  * @delims: A string of delimiter characters.
  *
